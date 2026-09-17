@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\c sharp\exp6\bin\Debug\net10.0\exp6.exe
+C:\Users\Hp\Desktop\c sharp\exp6\bin\Debug\net10.0\exp6.deps.json
+C:\Users\Hp\Desktop\c sharp\exp6\bin\Debug\net10.0\exp6.runtimeconfig.json
+C:\Users\Hp\Desktop\c sharp\exp6\bin\Debug\net10.0\exp6.dll
+C:\Users\Hp\Desktop\c sharp\exp6\bin\Debug\net10.0\exp6.pdb
+C:\Users\Hp\Desktop\c sharp\exp6\obj\Debug\net10.0\exp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\c sharp\exp6\obj\Debug\net10.0\exp6.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\c sharp\exp6\obj\Debug\net10.0\exp6.AssemblyInfo.cs
+C:\Users\Hp\Desktop\c sharp\exp6\obj\Debug\net10.0\exp6.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\c sharp\exp6\obj\Debug\net10.0\exp6.sourcelink.json
+C:\Users\Hp\Desktop\c sharp\exp6\obj\Debug\net10.0\exp6.dll
+C:\Users\Hp\Desktop\c sharp\exp6\obj\Debug\net10.0\refint\exp6.dll
+C:\Users\Hp\Desktop\c sharp\exp6\obj\Debug\net10.0\exp6.pdb
+C:\Users\Hp\Desktop\c sharp\exp6\obj\Debug\net10.0\exp6.genruntimeconfig.cache
+C:\Users\Hp\Desktop\c sharp\exp6\obj\Debug\net10.0\ref\exp6.dll

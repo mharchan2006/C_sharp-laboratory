@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\c sharp\exp7\bin\Debug\net8.0-windows\exp7.exe
+C:\Users\Hp\Desktop\c sharp\exp7\bin\Debug\net8.0-windows\exp7.deps.json
+C:\Users\Hp\Desktop\c sharp\exp7\bin\Debug\net8.0-windows\exp7.runtimeconfig.json
+C:\Users\Hp\Desktop\c sharp\exp7\bin\Debug\net8.0-windows\exp7.dll
+C:\Users\Hp\Desktop\c sharp\exp7\bin\Debug\net8.0-windows\exp7.pdb
+C:\Users\Hp\Desktop\c sharp\exp7\obj\Debug\net8.0-windows\exp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\c sharp\exp7\obj\Debug\net8.0-windows\exp7.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\c sharp\exp7\obj\Debug\net8.0-windows\exp7.AssemblyInfo.cs
+C:\Users\Hp\Desktop\c sharp\exp7\obj\Debug\net8.0-windows\exp7.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\c sharp\exp7\obj\Debug\net8.0-windows\exp7.sourcelink.json
+C:\Users\Hp\Desktop\c sharp\exp7\obj\Debug\net8.0-windows\exp7.dll
+C:\Users\Hp\Desktop\c sharp\exp7\obj\Debug\net8.0-windows\refint\exp7.dll
+C:\Users\Hp\Desktop\c sharp\exp7\obj\Debug\net8.0-windows\exp7.pdb
+C:\Users\Hp\Desktop\c sharp\exp7\obj\Debug\net8.0-windows\exp7.genruntimeconfig.cache
+C:\Users\Hp\Desktop\c sharp\exp7\obj\Debug\net8.0-windows\ref\exp7.dll
