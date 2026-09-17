@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\c sharp\exp1b\bin\Debug\net10.0\exp1b.exe
+C:\Users\Hp\Desktop\c sharp\exp1b\bin\Debug\net10.0\exp1b.deps.json
+C:\Users\Hp\Desktop\c sharp\exp1b\bin\Debug\net10.0\exp1b.runtimeconfig.json
+C:\Users\Hp\Desktop\c sharp\exp1b\bin\Debug\net10.0\exp1b.dll
+C:\Users\Hp\Desktop\c sharp\exp1b\bin\Debug\net10.0\exp1b.pdb
+C:\Users\Hp\Desktop\c sharp\exp1b\obj\Debug\net10.0\exp1b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\c sharp\exp1b\obj\Debug\net10.0\exp1b.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\c sharp\exp1b\obj\Debug\net10.0\exp1b.AssemblyInfo.cs
+C:\Users\Hp\Desktop\c sharp\exp1b\obj\Debug\net10.0\exp1b.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\c sharp\exp1b\obj\Debug\net10.0\exp1b.dll
+C:\Users\Hp\Desktop\c sharp\exp1b\obj\Debug\net10.0\refint\exp1b.dll
+C:\Users\Hp\Desktop\c sharp\exp1b\obj\Debug\net10.0\exp1b.pdb
+C:\Users\Hp\Desktop\c sharp\exp1b\obj\Debug\net10.0\exp1b.genruntimeconfig.cache
+C:\Users\Hp\Desktop\c sharp\exp1b\obj\Debug\net10.0\ref\exp1b.dll

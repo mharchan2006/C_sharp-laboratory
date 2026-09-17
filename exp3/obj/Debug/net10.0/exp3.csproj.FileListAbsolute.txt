@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\c sharp\exp3\bin\Debug\net10.0\exp3.exe
+C:\Users\Hp\Desktop\c sharp\exp3\bin\Debug\net10.0\exp3.deps.json
+C:\Users\Hp\Desktop\c sharp\exp3\bin\Debug\net10.0\exp3.runtimeconfig.json
+C:\Users\Hp\Desktop\c sharp\exp3\bin\Debug\net10.0\exp3.dll
+C:\Users\Hp\Desktop\c sharp\exp3\bin\Debug\net10.0\exp3.pdb
+C:\Users\Hp\Desktop\c sharp\exp3\obj\Debug\net10.0\exp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\c sharp\exp3\obj\Debug\net10.0\exp3.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\c sharp\exp3\obj\Debug\net10.0\exp3.AssemblyInfo.cs
+C:\Users\Hp\Desktop\c sharp\exp3\obj\Debug\net10.0\exp3.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\c sharp\exp3\obj\Debug\net10.0\exp3.dll
+C:\Users\Hp\Desktop\c sharp\exp3\obj\Debug\net10.0\refint\exp3.dll
+C:\Users\Hp\Desktop\c sharp\exp3\obj\Debug\net10.0\exp3.pdb
+C:\Users\Hp\Desktop\c sharp\exp3\obj\Debug\net10.0\exp3.genruntimeconfig.cache
+C:\Users\Hp\Desktop\c sharp\exp3\obj\Debug\net10.0\ref\exp3.dll
