@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Hp\\Desktop\\c sharp\\exp5\\exp5.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\c sharp\\exp5\\exp5.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Hp\\Desktop\\c sharp\\exp5\\exp5.csproj": {
+    "C:\\Users\\Hp\\Desktop\\c sharp\\exp5\\exp5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Hp\\Desktop\\c sharp\\exp5\\exp5.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\c sharp\\exp5\\exp5.csproj",
         "projectName": "exp5",
-        "projectPath": "c:\\Users\\Hp\\Desktop\\c sharp\\exp5\\exp5.csproj",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\c sharp\\exp5\\exp5.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Hp\\Desktop\\c sharp\\exp5\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\c sharp\\exp5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"

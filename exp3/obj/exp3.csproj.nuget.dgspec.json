@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Hp\\Desktop\\c sharp\\exp3\\exp3.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\c sharp\\exp3\\exp3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Hp\\Desktop\\c sharp\\exp3\\exp3.csproj": {
+    "C:\\Users\\Hp\\Desktop\\c sharp\\exp3\\exp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Hp\\Desktop\\c sharp\\exp3\\exp3.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\c sharp\\exp3\\exp3.csproj",
         "projectName": "exp3",
-        "projectPath": "c:\\Users\\Hp\\Desktop\\c sharp\\exp3\\exp3.csproj",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\c sharp\\exp3\\exp3.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Hp\\Desktop\\c sharp\\exp3\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\c sharp\\exp3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
